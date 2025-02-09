@@ -39,7 +39,7 @@ function GMO() {
             </div>
 
             <div className='bg-green-50 p-4 rounded-lg shadow-md'>
-              <p className='text-lg'> <b>Soyabeans</b>:Engineered for herbicide resistance, commonly used in food products, animal feed, and biofuels.</p>
+              <p className='text-lg'> <b>soyabeans</b>:Engineered for herbicide resistance, commonly used in food products, animal feed, and biofuels.</p>
               <div>
                 <Image
                   src="/soya.png"
@@ -56,7 +56,7 @@ function GMO() {
               <p className='text-lg'><b>Cotton</b>:Modified to resist insects and reduce pesticide use, widely used in textiles and cottonseed oil.</p>
               <div>
                 <Image
-                  src="/Cotton.png"
+                  src="/cotton.png"
                   alt="GMO"
                   width={900}
                   height={500}
